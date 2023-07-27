@@ -55,4 +55,4 @@
 ' |              |           |   \               /       |      /                   |
 ' |              |___________|    \_____________/        |_____/                    |
 ' |_________________________________________________________________________________|
-result = msgbox("You can't use this part!", vbOkOnly, "Error!")
+result = msgbox("I can's fine a file!", vbOkOnly, "Error!")
