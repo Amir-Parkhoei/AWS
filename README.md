@@ -1,7 +1,8 @@
 # AWS
 
 Create a bot.
-    This bot answers with speech.
+
+This bot answers with speech.
 # Details
 ______________________________________________________________________________
        Created by:                                                            |
