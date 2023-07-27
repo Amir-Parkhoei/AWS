@@ -6,6 +6,8 @@ try:
         try:
             from os import startfile
             startfile(r"Files\Codes\Download.py")
+            with open(r"Files\Codes\Lib-Info.txt", "w") as writer:
+                writer.write("Com")
         except:
             try:
                 from time import sleep as sp
