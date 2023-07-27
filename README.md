@@ -3,6 +3,8 @@
        Create a bot.
 -
        This bot answers with speech.
+-
+       Bot name is AWS(Answer with speech)
 
 # Details
 ______________________________________________________________________________
