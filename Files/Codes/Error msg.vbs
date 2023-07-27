@@ -1,0 +1,1 @@
+result = msgbox("You can't use this part!", vbOkOnly, "Error!")
